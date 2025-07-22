@@ -1,1 +1,6 @@
 streamlit
+Pillow
+moviepy
+gtts
+transformers
+torch
