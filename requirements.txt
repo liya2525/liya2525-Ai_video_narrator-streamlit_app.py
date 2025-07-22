@@ -1,6 +1,7 @@
 streamlit
-Pillow
-moviepy==1.0.3
-gtts
 transformers
+auto-gptq
+moviepy
+gTTS
 torch
+Pillow
