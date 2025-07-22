@@ -1,6 +1,6 @@
 streamlit
 Pillow
-moviepy
+moviepy==1.0.3
 gtts
 transformers
 torch
